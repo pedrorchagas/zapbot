@@ -1,0 +1,7 @@
+<h2>Olá, tudo bem? <%= @name %> </h2>
+<p>Você tem esses horários marcados: </p>
+<ul>
+    <% @appointments.each do |item| %>
+      <li><%= item %></li>
+    <% end %>
+</ul>

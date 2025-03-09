@@ -1,0 +1,9 @@
+{
+    "begin": [
+        "Olá, tudo bem? Sou um bot de atendimento automático. Antes de começar o seu atendimento, qual é o seu nome?"
+    ],
+    "menu": ["Certo, %{name}. Escolha uma das opções abaixo: 1- marcar, 2-desmarcar, 3 - remarcar"],
+    "create-appointment-1": ["Então %{name}, você escolheu maracar um horário, qual é o melhor dia para marcarmos um horario?"],
+    "create-appointment-2": ["Certo %{name}, para o dia %{day} temos esses horários, quel é o melhor para você?"]    
+
+}
